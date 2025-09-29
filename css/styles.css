@@ -34,12 +34,14 @@ color: #E35335;}
 height: 80px;
 clear: both;}
 
-#main-nav ul{ list-style-type: none;
+#main-nav ul{
+list-style-type: none;
 margin: 0;
 padding: 0;
 float: left;
 position: relative;
-left:50%;}
+left:50%;
+}
 
 #content-wrapper{ background-image: url("../images/repeating.png");
 float: left;}
@@ -86,3 +88,7 @@ strong {
   font-weight: 900;
   font-size: 48 px;
 }  
+#center{
+  size: 900 px;
+  text-align: center;
+]  
