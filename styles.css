@@ -34,7 +34,7 @@ left:50%;}
 { background-image: url("../images/repeating.png");
 float: left;}
 
-#page-wrapper{ background-image: url("https://github.com/EL670/webdev_lab6/blob/main/images/black.jpg"); }
+body{ background-image: url(".../images/black.jpg"); }
 
 { min-height: 300px;
 width: 715px;
