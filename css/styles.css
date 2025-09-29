@@ -13,6 +13,11 @@ right: 10px;
 color: white;
 font-size: 1.8em;}
 
+#header a#logo1 img{
+margin-top: 20px;
+margin-left: 20px;
+margin-bottom: 20px;}
+
 #header{ position: relative;
 margin-top: 40px;
 border-radius: 12px 12px 0px 0px;}
@@ -24,10 +29,7 @@ font-size: 3em;
 font-family: 'Devonshire', cursive;
 color: #E35335;}
 
-#header a#logo1 img{
-margin-top: 20px;
-margin-left: 20px;
-margin-bottom: 20px;}
+
 
 
 
